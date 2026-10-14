@@ -1,3 +1,19 @@
+# Learning repository — attribution
+
+**Original repository:** [mathurinm/github-assignment](https://github.com/mathurinm/github-assignment)
+
+**Original authors / maintainers:** mathurinm and the credited datacamp-assignment-numpy authors
+
+**Purpose of this fork:** study, coursework and reference.
+
+The assignment framework, tests and teaching materials are upstream work. My contribution is completing the NumPy/scikit-learn Part B exercises and contributing my student-list entry (three Licheng1004 commits in the reviewed local history).
+
+Fork ownership does not imply authorship of the upstream project. Original license notices, credits and contribution history are retained; consult the upstream repository and the license files below for reuse terms.
+
+---
+
+## Original upstream README
+
 # Working with git and GitHub
 This README contains:
 - an assignment for students of the Python class
